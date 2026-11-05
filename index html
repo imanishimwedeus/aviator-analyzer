@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Aviator Analyzer</title>
+    <style>
+        body {
+            background: #111827;
+            color: white;
+            font-family: Arial;
+            text-align: center;
+            padding: 50px;
+        }
+
+        h1 {
+            color: #00d4ff;
+        }
+    </style>
+</head>
+<body>
+    <h1>Aviator Analyzer</h1>
+    <h2>Welcome!</h2>
+    <p>Study historical multipliers and probability.</p>
+    <p>Past results cannot reliably predict future crashes.</p>
+</body>
+</html>
